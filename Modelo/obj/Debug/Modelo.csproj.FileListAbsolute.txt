@@ -1,0 +1,9 @@
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\Resplados\prgArticulos\Modelo\bin\Debug\Modelo.dll
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\Resplados\prgArticulos\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\Resplados\prgArticulos\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\Resplados\prgArticulos\Modelo\obj\Debug\Modelo.dll
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\Resplados\prgArticulos\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\prgArticulos\Modelo\bin\Debug\Modelo.dll
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\prgArticulos\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\prgArticulos\Modelo\obj\Debug\Modelo.dll
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\prgArticulos\Modelo\obj\Debug\Modelo.pdb
