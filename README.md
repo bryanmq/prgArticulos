@@ -1,2 +1,2 @@
 # prgArticulos
-practica en Clase
+practica en Clase :D
