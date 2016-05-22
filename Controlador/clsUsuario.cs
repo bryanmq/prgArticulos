@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Modelo;
 using System.Data.SqlClient;
-//CAMBIO
+//CAMBIO2
 namespace Controlador
 {
     public class clsUsuario
