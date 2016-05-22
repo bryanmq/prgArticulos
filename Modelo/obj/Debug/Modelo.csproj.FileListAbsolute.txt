@@ -7,3 +7,8 @@ C:\Users\Bryan\Documents\Visual Studio 2015\Projects\prgArticulos\Modelo\bin\Deb
 C:\Users\Bryan\Documents\Visual Studio 2015\Projects\prgArticulos\Modelo\bin\Debug\Modelo.pdb
 C:\Users\Bryan\Documents\Visual Studio 2015\Projects\prgArticulos\Modelo\obj\Debug\Modelo.dll
 C:\Users\Bryan\Documents\Visual Studio 2015\Projects\prgArticulos\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Bryan\Source\Repos\prgArticulos\Modelo\bin\Debug\Modelo.dll
+C:\Users\Bryan\Source\Repos\prgArticulos\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Bryan\Source\Repos\prgArticulos\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Source\Repos\prgArticulos\Modelo\obj\Debug\Modelo.dll
+C:\Users\Bryan\Source\Repos\prgArticulos\Modelo\obj\Debug\Modelo.pdb

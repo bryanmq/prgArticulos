@@ -12,3 +12,10 @@ C:\Users\Bryan\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\bi
 C:\Users\Bryan\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
 C:\Users\Bryan\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\obj\Debug\Controlador.dll
 C:\Users\Bryan\Documents\Visual Studio 2015\Projects\prgArticulos\Controlador\obj\Debug\Controlador.pdb
+C:\Users\Bryan\Source\Repos\prgArticulos\Controlador\bin\Debug\Controlador.dll
+C:\Users\Bryan\Source\Repos\prgArticulos\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Bryan\Source\Repos\prgArticulos\Controlador\bin\Debug\Modelo.dll
+C:\Users\Bryan\Source\Repos\prgArticulos\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Bryan\Source\Repos\prgArticulos\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Source\Repos\prgArticulos\Controlador\obj\Debug\Controlador.dll
+C:\Users\Bryan\Source\Repos\prgArticulos\Controlador\obj\Debug\Controlador.pdb
